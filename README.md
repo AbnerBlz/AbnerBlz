@@ -1,6 +1,6 @@
 ### Opa 👋
 
-Pequeno gafanhoto da linguagem java 🦗
+Estudante de ADS, desenvolvendo conhecimentos relacionados a Java, banco de dados e arranhando a superfície de desenvolvimento web :)
 
 Apaixonado por música :notes:
 <!--
