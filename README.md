@@ -1,19 +1,19 @@
-### Opa 👋
+### Hey there 👋
 
-Formado em ADS, desenvolvendo conhecimentos relacionados a Java, banco de dados e arranhando a superfície de desenvolvimento web :)
+Software Developer | Java • C# • MySQL
 
-Apaixonado por música :notes:
-<!--
-**AbnerBlz/AbnerBlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Analysis and Development graduate interested in software development, backend engineering, and database management.
 
-Here are some ideas to get you started:
+My focus is on building practical projects, strengthening my programming fundamentals, and exploring technologies across the software development ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Tools
+
+Languages: Java, C#, PHP, Python
+
+Databases: MySQL, SQL
+
+Frameworks & Technologies: .NET, Spring Boot
+
+Tools: Git, GitHub, VS Code, Eclipse
+
+Other Interests: REST APIs, Software Architecture, Data Analysis
